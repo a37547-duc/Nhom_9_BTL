@@ -5,3 +5,5 @@ Nhanviensuadoi
 NhanViensuafile
 Quablyssuafile
 Tạo lỗi conflic
+Quan lý sửa đổi file 
+123456
