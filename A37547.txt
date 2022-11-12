@@ -4,6 +4,7 @@ Nhanviensuadoi
 123456789101111177878787878
 NhanViensuafile
 Quanlysuafile
+Sửa đổi conflic
+123456
 Co y tao confic
 123
-BBBBBBBBBBBBBBBBBBBBBB
